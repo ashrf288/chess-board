@@ -28,4 +28,4 @@ Your job is to render out chess boards with red and blue queens on them.
 [x]queens on same row should be “under attack”
 [x]queens on same column should be “under attack”
 [x]queens on same diagonal should be “under attack”
-[]queens with any other coordinates should NOT be “under attack”
+[x]queens with any other coordinates should NOT be “under attack”
