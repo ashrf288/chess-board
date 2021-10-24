@@ -18,7 +18,7 @@ Your job is to render out chess boards with red and blue queens on them.
 
 [x]should have add_red method that accepts a row and column as input which colors corresponding cell.
 
-[]should have add_blue method that accepts a row and column as input which colors corresponding cell.
+[x]should have add_blue method that accepts a row and column as input which colors corresponding cell.
 
 []should have render method that displays the chess board on screen with red and blue shown in correct locations
 
