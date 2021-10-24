@@ -6,6 +6,7 @@ Your job is to render out chess boards with red and blue queens on them.
 
 ## Implementation Notes
 
+
 [X]Define a ChessBoard class - should contain an 8x8 grid 
 
 [x] Each cell in grid should have a color represented in RGB format. - black = (0,0,0) - white = (1,1,1) - blue = (0,1,1) - red = (1,.2,0)
@@ -32,3 +33,4 @@ Your job is to render out chess boards with red and blue queens on them.
 [x]queens on same diagonal should be “under attack”
 
 [x]queens with any other coordinates should NOT be “under attack”
+
