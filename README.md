@@ -23,3 +23,9 @@ Your job is to render out chess boards with red and blue queens on them.
 [x]should have render method that displays the chess board on screen with red and blue shown in correct locations
 
 [x]should have is_under_attack method that return boolean if red is under attack by a blue piece horizontally, vertically or diagonally
+
+
+[x]queens on same row should be “under attack”
+[]queens on same column should be “under attack”
+[]queens on same diagonal should be “under attack”
+[]queens with any other coordinates should NOT be “under attack”
